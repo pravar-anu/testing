@@ -7,8 +7,8 @@ function App() {
     <div>
       <h1>This one is for testing</h1>
       <Helmet>
-        <title>Nya Title</title>
-        <link rel="icon" href="/icons/favicon.ico" />
+        <title>Nya wala Title</title>
+        {/* <link rel="icon" href="/icons/favicon.ico" /> */}
       </Helmet>
     </div>
   )
