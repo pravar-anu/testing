@@ -8,7 +8,7 @@ function App() {
       <h1>This one is for testing</h1>
       <Helmet>
         <title>Nya Title</title>
-        <link rel="icon" type='img/ico' href="/icons/favicon.ico" />
+        <link rel="icon" href="/icons/favicon.ico" />
       </Helmet>
     </div>
   )
