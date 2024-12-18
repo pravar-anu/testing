@@ -8,7 +8,7 @@ function App() {
       <h1>This one is for testing purpose only</h1>
       <Helmet>
         <title>Nya wala Title</title>
-        <link rel="icon" type='image/x-icon' href="/icons/favicon.ico" />
+        {/* <link rel="icon" type='image/x-icon' href="/icons/favicon.ico" />
         <link
           rel="apple-touch-icon"
           sizes="57x57"
@@ -48,7 +48,7 @@ function App() {
           rel="apple-touch-icon"
           sizes="152x152"
           href="/icons/apple-icon-152x152.png"
-        />
+        /> */}
       </Helmet>
     </div>
   )
