@@ -49,31 +49,33 @@ function App() {
           sizes="152x152"
           href="%PUBLIC_URL%/icons/apple-icon-152x152.png"
         />
-
-<link
-      rel="icon"
-      type="image/png"
-      sizes="192x192"
-      href="%PUBLIC_URL%/icons/android-icon-192x192.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="%PUBLIC_URL%/icons/favicon-32x32.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="96x96"
-      href="%PUBLIC_URL%/icons/favicon-96x96.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="%PUBLIC_URL%/icons/favicon-16x16.png"
-    />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="192x192"
+          href="%PUBLIC_URL%/icons/android-icon-192x192.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="32x32"
+          href="%PUBLIC_URL%/icons/favicon-32x32.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="96x96"
+          href="%PUBLIC_URL%/icons/favicon-96x96.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="16x16"
+          href="%PUBLIC_URL%/icons/favicon-16x16.png"
+        />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
       </Helmet>
     </div>
   )
