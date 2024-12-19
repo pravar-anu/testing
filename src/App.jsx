@@ -9,7 +9,7 @@ function App() {
       <Helmet>
         <title>Nya wala Title</title>
         <link rel="icon" href="https://paconnect.dev.ibidigital.com/media/417cc314-603e-4bae-97c7-d39a775dc318/public/favicon/paconnect_favicon.ico" />
-
+        <link rel="apple-touch-icon" href="../public/icons/apple-icon.png" />
         {/* <link rel="icon" type='image/x-icon' href="%PUBLIC_URL%/icons/favicon.ico?v=2"/>
         <link
           rel="apple-touch-icon"
