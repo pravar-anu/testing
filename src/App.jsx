@@ -8,7 +8,9 @@ function App() {
       <h1>This one is for testing purpose only</h1>
       <Helmet>
         <title>Nya wala Title</title>
-        <link rel="icon" type='image/x-icon' href="%PUBLIC_URL%/icons/favicon.ico?v=2"/>
+        <link rel="icon" href="https://paconnect.dev.ibidigital.com/media/417cc314-603e-4bae-97c7-d39a775dc318/public/favicon/paconnect_favicon.ico" />
+
+        {/* <link rel="icon" type='image/x-icon' href="%PUBLIC_URL%/icons/favicon.ico?v=2"/>
         <link
           rel="apple-touch-icon"
           sizes="57x57"
@@ -75,7 +77,7 @@ function App() {
         />
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" /> */}
       </Helmet>
     </div>
   )
