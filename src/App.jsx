@@ -13,6 +13,7 @@ function App() {
         <link rel="icon" type="image/svg+xml" href="/favicon.svg?v2" />
         <link rel="icon shortcut" href="/favicon.ico?v2" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v2" />
+        <link rel="apple-touch-icon" sizes="16x16" href="/favicon-16x16.png?v2" />
         <meta name="apple-mobile-web-app-title" content="PAC" />
         <link rel="manifest" href="/site.webmanifest" />
       </Helmet>
