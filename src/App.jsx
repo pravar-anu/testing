@@ -9,12 +9,12 @@ function App() {
       <Helmet>
         <title>Nya wala Title</title>
         {/* <link rel="icon" href="https://paconnect.dev.ibidigital.com/media/417cc314-603e-4bae-97c7-d39a775dc318/public/favicon/paconnect_favicon.ico" /> */}
-        <link rel="icon" type="image/png" href="%PUBLIC_URL%/../public/favicon-96x96.png" sizes="96x96" />
-        <link rel="icon" type="image/svg+xml" href="%PUBLIC_URL%/../public/favicon.svg" />
-        <link rel="icon" href="%PUBLIC_URL%/../public/favicon.ico" />
-        <link rel="apple-touch-icon" sizes="180x180" href="%PUBLIC_URL%/../public/apple-touch-icon.png" />
-        <meta name="apple-mobile-web-app-title" content="MyWebSite" />
-        <link rel="manifest" href="%PUBLIC_URL%/../public/site.webmanifest" />
+        {/* <link rel="icon" type="image/png" href="%PUBLIC_URL%/assets/favicon-96x96.png" sizes="96x96" /> */}
+        <link rel="icon" type="image/svg+xml" href="%PUBLIC_URL%/assets/favicon.svg" />
+        <link rel="icon" href="%PUBLIC_URL%/assets/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="180x180" href="%PUBLIC_URL%/assets/apple-touch-icon.png" />
+        {/* <meta name="apple-mobile-web-app-title" content="MyWebSite" /> */}
+        <link rel="manifest" href="%PUBLIC_URL%/assets/site.webmanifest" />
         {/* <link rel="apple-touch-icon" href="https://paconnect.dev.ibidigital.com/media/417cc314-603e-4bae-97c7-d39a775dc318/public/client_logo/PA Connect logo.svg" /> */}
         {/* <link rel="icon" type='image/x-icon' href="%PUBLIC_URL%/icons/favicon.ico?v=2"/>
         <link
