@@ -8,7 +8,7 @@ function App() {
       <h1>This one is for testing purpose only</h1>
       <Helmet>
         <title>Nya wala Title</title>
-        <link rel="icon" type='image/x-icon' href="../public/icons/favicon.ico" />
+        <link rel="icon" type='image/x-icon' href="https://paconnect.dev.ibidigital.com/media/417cc314-603e-4bae-97c7-d39a775dc318/public/favicon/paconnect_favicon.ico"/>
         <link
           rel="apple-touch-icon"
           sizes="57x57"
